@@ -1,0 +1,18 @@
+【关于lab课的Task1&Task2】
+
+Task1:
+有同学问怎么优化算法时间复杂度，降低到O(ElogE)或O(ElogV)，优化的关键在于find_set和union_set的实现；最优算法采用的是Union By Rank和Path Compression的方法，想要了解它们的同学可以按照下面列出的博客顺序去读（~1 hour）：
+
+1. Union-Find Algorithm: https://www.geeksforgeeks.org/union-find/
+
+2. Union By Rank and Path Compression: https://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/
+
+https://algorithms.tutorialhorizon.com/disjoint-set-union-find-algorithm-union-by-rank-and-path-compression/#:~:text=Union%20by%20rank%20always%20attaches,set's%20rank%20is%20one%20larger
+
+3. Kruskal MST in O(ElogE) or O(ElogV): https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+
+
+
+
+
+
